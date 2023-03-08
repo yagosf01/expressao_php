@@ -1,0 +1,13 @@
+<?php
+echo "Teste o operador de resto em duas divisoes, uma nao resulta exata outra sim <br>";
+$a = 20;
+$b = 2; 
+$c = 3; 
+
+echo $a % $b;
+echo "<br>";
+
+echo $a % $c;
+echo "<br>";
+
+?>
